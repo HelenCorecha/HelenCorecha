@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenCorecha&show_icons=true&theme=radical)
 
-
-
 name: Generate Datas
 
 on:
@@ -20,7 +18,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name:HelenCorecha
+          github_user_name: HelenCorecha
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
@@ -29,7 +27,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+
+
 
    
 
