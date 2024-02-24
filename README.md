@@ -1,5 +1,4 @@
-### Hi there , Eu sou a Helen e seja Bem-Vindo ao meu Github👋
-
+### Olá, seja bem vindo ao meu GitHub ;)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenCorecha&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
