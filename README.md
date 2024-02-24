@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu GitHub <p>Aqui está um emoji de sorriso: &#128512;</p>
+### Olá, seja bem vindo ao meu GitHub <p>&#x1F496;</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenCorecha&show_icons=true&theme=radical)
 
