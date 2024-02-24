@@ -22,4 +22,3 @@
 
 
 
-![Descrição do GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fbaby-yoda-39%2F&psig=AOvVaw35YQGnH13kP5eC1BeyvD6m&ust=1708902338975000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj7hryLxYQDFQAAAAAdAAAAABAE)
