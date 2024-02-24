@@ -1,4 +1,5 @@
-### Olá, seja bem vindo ao meu GitHub ;)
+### Olá, seja bem vindo ao meu GitHub <p>Aqui está um emoji de sorriso: &#128512;</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenCorecha&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
@@ -11,11 +12,6 @@
   
   ##
 
-
-<style>
-    .rounded-icon {
-        border-radius: 10px; 
-</style>
 
 <div>
     <a href="https://instagram.com/helencorecha" target="_blank"><img class="rounded-icon" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
